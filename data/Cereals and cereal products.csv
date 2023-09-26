@@ -1,0 +1,82 @@
+﻿食物名称,分量,能量(千卡),蛋白质(克),碳水化合物(克),脂肪(克),膳食纤维(克),糖(克),饱和脂肪(克),反式脂肪(克),胆固醇(毫克),钠,维生素C（毫克）,钙
+Barley(Shelling),100克,354,12.48,73.48,2.3,17.3,0.8,0.482,NA,0,12,0,33
+Xiaomi(Ripe),100克,119,3.51,23.67,1,1.3,0.13,0.172,NA,0,2,0,3
+Xiaomi(Birth),100克,378,11.02,72.85,4.22,8.5,NA,0.723,NA,0,5,0,8
+Wheat bran(Unprocessed),100克,216,15.55,64.51,4.25,42.8,0.41,0.63,NA,0,2,0,73
+Malt,100克,198,7.49,42.53,1.27,1.1,NA,0.206,NA,0,16,2.6,28
+Spelt wheat(Uncooked),100克,338,14.57,70.19,2.43,10.7,6.82,0.406,NA,0,8,0,27
+Spelt wheat(Ripe),100克,127,5.5,26.44,0.85,3.9,NA,NA,NA,0,5,0,10
+Oats,100克,389,16.89,66.27,6.9,10.6,NA,1.217,NA,0,2,0,54
+Oat bran(Ripe),100克,40,3.21,11.44,0.86,2.6,NA,0.163,NA,0,1,0,10
+Oat bran(Birth),100克,246,17.3,66.22,7.03,15.4,1.45,1.328,NA,0,4,0,58
+White corn,100克,365,9.42,74.26,4.74,NA,NA,0.667,NA,0,35,0,7
+White glutinous rice(Birth),100克,370,6.81,81.68,0.55,2.8,NA,0.111,NA,0,7,0,11
+White glutinous rice,100克,97,2.02,21.09,0.19,1,0.05,0.039,NA,0,5,0,2
+"White rice(Medium, no addition)",100克,130,2.38,28.59,0.21,NA,NA,0.057,NA,0,0,0,3
+"White rice(Short granules, no additions)",100克,130,2.36,28.73,0.19,NA,NA,0.051,NA,0,0,0,1
+White rice(Long grain),100克,130,2.69,28.17,0.28,0.4,0.05,0.077,NA,0,1,0,10
+"White rice(Long grain, semi-ripe, without addition)",100克,123,2.91,26.05,0.37,0.9,0.11,0.074,NA,0,2,0,19
+"White rice(Long grain, no added salt)",100克,130,2.69,28.17,0.28,0.4,0.05,0.077,NA,0,1,0,10
+"White rice(Long grain, added salt)",100克,130,2.69,28.17,0.28,0.4,0.05,0.077,NA,0,382,0,10
+Hard white wheat,100克,342,11.31,75.9,1.71,12.2,0.41,0.277,NA,0,2,0,32
+Hard red winter wheat,100克,327,12.61,71.18,1.54,12.2,0.41,0.269,NA,0,2,0,29
+Hard red spring wheat,100克,329,15.4,68.03,1.92,12.2,0.41,0.314,NA,0,2,0,25
+Brown rice(Medium grain),100克,112,2.32,23.51,0.83,1.8,NA,0.165,NA,0,1,0,10
+Brown rice(Long grain),100克,111,2.58,22.96,0.9,1.8,0.35,0.18,NA,0,5,0,10
+Amaranth seed(Ripe),100克,102,3.8,18.69,1.58,2.1,NA,NA,NA,NA,6,0,47
+Buckwheat,100克,343,13.25,71.5,3.4,10,NA,0.741,NA,0,1,0,18
+Buckwheat grain(Baking),100克,92,3.38,19.94,0.62,2.7,0.9,0.134,NA,0,4,0,7
+"Buckwheat grain(Bake, dry)",100克,346,11.73,74.95,2.71,10.3,NA,0.591,NA,0,11,0,17
+Yimi(Ripe),100克,123,2.26,28.22,0.44,3.8,0.28,0.093,NA,0,3,0,11
+Yimi(Birth),100克,352,9.91,77.72,1.16,15.6,0.8,0.244,NA,0,9,0,29
+Quinoa(Uncooked),100克,368,14.12,64.16,6.07,7,NA,0.706,NA,0,5,0,47
+Quinoa(Ripe),100克,120,4.4,21.3,1.92,2.8,NA,NA,NA,0,7,0,17
+Soft white wheat,100克,340,10.69,75.36,1.99,12.7,0.41,0.368,NA,0,2,0,34
+Soft red winter wheat,100克,331,10.35,74.24,1.56,12.5,0.41,0.289,NA,0,2,0,27
+Wild rice(Birth),100克,357,14.73,74.9,1.08,6.2,2.5,0.156,NA,0,7,0,21
+Wild rice,100克,101,3.99,21.34,0.34,1.8,0.73,0.049,NA,0,3,0,3
+Golden millet,100克,365,9.42,74.26,4.74,7.3,0.64,0.667,NA,0,35,0,7
+Youglutinous rice,100克,345,9,75.3,1,0.6,NA,NA,NA,NA,1.2,0,8
+Barley [barley],100克,327,10.2,73.3,1.4,9.9,NA,NA,NA,NA,ND,0,66
+Rhubarb rice [millet],100克,356,13.6,71.1,2.7,3.5,NA,NA,NA,NA,1.7,0,30
+Xiaomi,100克,361,9,75.1,3.1,1.6,NA,NA,NA,NA,4.3,0,41
+Millet porridge,100克,46,1.4,8.4,0.7,ND,NA,NA,NA,NA,4.1,0,10
+Wheat,100克,339,11.9,75.2,1.3,10.8,NA,NA,NA,NA,6.8,0,34
+Early indica,100克,361,9.9,76.2,2.2,1.4,NA,NA,NA,NA,1.6,0,13
+Morning glutinous valley,100克,360,7.1,77,3.2,2.8,NA,NA,NA,NA,4.1,0,19
+"Corn(White, dry)",100克,352,8.8,74.7,3.8,8,NA,NA,NA,NA,2.5,0,10
+"Corn(Yellow, dry)",100克,348,8.7,73,3.8,6.4,NA,NA,NA,NA,3.3,0,14
+Corn grits(Yellow),100克,354,7.9,75.6,3,3.6,NA,NA,NA,NA,1.7,0,49
+Rice(Mean),100克,347,7.4,77.9,0.8,0.7,NA,NA,NA,NA,3.8,0,13
+Rice (steamed) (average),100克,116,2.6,25.9,0.3,0.3,NA,NA,NA,NA,2.5,0,7
+Indica rice grain(Red),100克,348,7,76.4,2,2,NA,NA,NA,NA,22,0,NA
+Indica rice [standard],100克,349,7.9,78.3,0.6,0.8,NA,NA,NA,NA,1.7,0,12
+Indica rice(Steaming),100克,115,2.5,26,0.2,0.4,NA,NA,NA,NA,1.7,0,6
+Indica glutinous rice,100克,353,7.9,78,1.1,0.5,NA,NA,NA,NA,1.9,0,14
+Japonica rice(Mark 1),100克,345,7.7,77.4,0.6,0.6,NA,NA,NA,NA,2.4,0,11
+Purple-red glutinous rice [Blood glutinous rice],100克,346,8.3,75.1,1.7,1.4,NA,NA,NA,NA,4,0,13
+Belly yellow,100克,337,8.8,76.7,1.2,8,NA,NA,NA,NA,5.2,0,3
+Buckwheat,100克,337,9.3,73,2.3,6.5,NA,NA,NA,NA,4.7,0,47
+"Semen Coicis [Semen Coicis, Semen Coicis]",100克,361,12.8,71.1,3.3,2,NA,NA,NA,NA,3.6,0,42
+Barley,100克,342,8.1,75,1.5,1.8,NA,NA,NA,NA,77,0,113
+Fragrant rice,100克,347,12.7,72.4,0.9,0.6,NA,NA,NA,NA,21.5,0,8
+Sorghum rice,100克,360,10.4,74.7,3.1,4.3,NA,NA,NA,NA,6.3,0,22
+Bran,100克,282,15.8,61.4,4,31.3,NA,NA,NA,NA,12.2,0,206
+Yellow rice,100克,351,9.7,76.9,1.5,4.4,NA,NA,NA,NA,3.3,0,NA
+Black rice,100克,341,9.4,72.2,2.5,3.9,NA,NA,NA,NA,7.1,0,12
+Oatmeal boiled with added salt [porridge],100克,66,2,10.2,1.4,1.7,0,0.2,NA,0,28,0,9
+Oatmeal(Boil without salt),100克,66,2,10.2,1.4,1.7,0,0.2,NA,0,1,0,9
+Oatmeal(Birth),100克,377,11,58.1,8.7,9.5,0,3.3,NA,0,7,0,45
+White rice(Birth),100克,352,6.3,78.8,0.5,0.7,0.2,NA,NA,0,5,0,7
+White rice(Boil without salt),100克,117,1.9,26.1,0.2,0.4,0.1,0,NA,0,3,0,4
+"White rice(Boil, add salt)",100克,117,2,26.1,0.2,0.4,0.1,0,NA,0,129,0,4
+Rice porridge(Ripe),100克,46,0.8,10.2,0.1,0.1,0,0,NA,0,1,0,2
+Rice bran(Extrusion or rough processing),100克,393,14.1,26.5,20.4,25.5,6.5,2.9,NA,0,8,0,58
+Brown rice(Birth),100克,368,7.2,76.5,2.4,3.2,0.7,0.4,NA,0,5,0,11
+Brown rice(Boil without salt),100克,153,2.9,31.8,1,1.5,0.3,0.2,NA,0,3,0,5
+"Brown rice(Boil, add salt)",100克,154,3,31.8,1,1.5,0.3,0.2,NA,0,110,0,5
+Yimi(Boil without adding fat or salt),100克,90,2.4,16.6,0.7,2.9,0,0.5,NA,0,11,0,9
+Yimi(Birth),100克,325,8,61.2,2.4,11.4,0.7,0.4,NA,0,15,0,22
+White rice(Steamed),100克,133,2.3,30.3,0.3,0.2,NA,NA,NA,0,34,0,6
+Glutinous rice(Steamed),100克,229,4.6,52,0.3,0.3,NA,NA,NA,0,12,0,5
+Black glutinous rice,100克,360,7.5,76.1,2.9,4.9,NA,NA,NA,0,NA,0,22
